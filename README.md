@@ -1,5 +1,7 @@
 # sprint7-final-project
+
 Análisis de Clientes y Rentabilidad: ConnectaTel 📊
+
 Este proyecto consiste en un análisis integral de los datos de consumo de la empresa de telecomunicaciones ConnectaTel. El objetivo es evaluar el comportamiento de los usuarios en dos planes distintos (Surf y Ultimate) para identificar patrones de uso, detectar anomalías y proponer estrategias que optimicen la rentabilidad y la retención de clientes.
 
 🎯 Objetivo del Proyecto
@@ -49,7 +51,7 @@ Ejecutar celdas:
 Ejecuta las celdas en orden secuencial (Shift + Enter).
 
 🛠️ Guía de Reproducción
-Clona este repositorio: git clone https://github.com/tu-usuario/nombre-del-repo.git
+Clona este repositorio: git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tonyoinsights/sprint7-final-project)
 
 Asegúrate de tener instaladas las librerías necesarias:
 
