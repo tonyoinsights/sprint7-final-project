@@ -51,7 +51,7 @@ Ejecutar celdas:
 Ejecuta las celdas en orden secuencial (Shift + Enter).
 
 🛠️ Guía de Reproducción
-Clona este repositorio: git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tonyoinsights/sprint7-final-project)
+Clona este repositorio: git clone [[https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tonyoinsights/sprint7-final-project)](https://github.com/tonyoinsights/sprint7-final-project)
 
 Asegúrate de tener instaladas las librerías necesarias:
 
