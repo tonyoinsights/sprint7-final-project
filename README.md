@@ -50,9 +50,11 @@ Ejecutar celdas:
 
 Ejecuta las celdas en orden secuencial (Shift + Enter).
 
-🛠️ Guía de Reproducción
-Clona este repositorio: git clone [[https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tonyoinsights/sprint7-final-project)](https://github.com/tonyoinsights/sprint7-final-project)
+## 🛠️ Guía de Reproducción
 
+1. **Clona este repositorio** en tu máquina local o terminal:
+   ```bash
+   git clone [https://github.com/tonyoinsights/sprint7-final-project.git](https://github.com/tonyoinsights/sprint7-final-project.git)
 Asegúrate de tener instaladas las librerías necesarias:
 
 Bash
