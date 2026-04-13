@@ -55,6 +55,8 @@ Ejecuta las celdas en orden secuencial (Shift + Enter).
 1. **Clona este repositorio** en tu máquina local o terminal:
    ```bash
    git clone [https://github.com/tonyoinsights/sprint7-final-project.git](https://github.com/tonyoinsights/sprint7-final-project.git)
+
+   Acceso directo: También puedes ver el código y los archivos directamente en la página principal del repositorio.
 Asegúrate de tener instaladas las librerías necesarias:
 
 Bash
